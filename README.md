@@ -1,4 +1,4 @@
-<h1 align="center">👋 I'm Chaitanya Sai</h1>
+<h1 align="center">👋 I'm Chaitanya Sai Valla</h1>
 
 - 👨‍💻 I’m a CSE Pre Final Year at **NIT Trichy**
 
