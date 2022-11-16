@@ -9,4 +9,4 @@
  
 <h3 align="left">My Github Stats:</h3>
 
-[![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaitanyaSaiValla&count_private=true&show_icons=true&theme=radical)](https://github.com/ChaitanyaSaiValla/github-readme-stats)      [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ChaitanyaSaiValla&layout=compact&langs_count=8&theme=react)](https://github.com/ChaitanyaSaiValla/)
+[![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaitanyaSaiValla&count_private=true&show_icons=true&theme=radical)](https://github.com/ChaitanyaSaiValla/github-readme-stats)     [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ChaitanyaSaiValla&layout=compact&langs_count=8&theme=react)](https://github.com/ChaitanyaSaiValla/)
